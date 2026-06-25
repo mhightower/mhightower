@@ -24,7 +24,7 @@ An AI-assisted crypto arbitrage agent built in Python. Uses a LangGraph workflow
 
 A full-stack personal investment tracker engineered to eliminate emotional decision-making at the point of entry. Forces structured buy thesis documentation and explicit sell conditions before any position is opened — creating an auditable decision trail. Integrates Claude API to perform real-time gap analysis on investment theses and surface missed exit criteria. Backed by a fully async FastAPI + SQLAlchemy 2 data layer, server-side TTL caching for Alpha Vantage market data, and a 272-test suite (127 backend + 180 frontend + Playwright E2E) with ~80% line coverage.
 
-`Python` `FastAPI` `SQLAlchemy` `Vue 3` `Pinia` `Vite` `SQLite` `Alpha Vantage API` `Anthropic API` `Playwright` `pytest-asyncio` `GitHub Actions`
+`Python` `Node.js` `FastAPI` `SQLAlchemy` `Vue 3` `Pinia` `Vite` `SQLite` `Alpha Vantage API` `Anthropic API` `Playwright` `pytest-asyncio` `GitHub Actions`
 
 ### [EncryptionClientLib](https://github.com/mhightower/EncryptionClientLib)
 
