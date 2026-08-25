@@ -1,6 +1,6 @@
 # Hi, I'm Marcus Hightower 👋
 
-Senior software engineer with 25+ years building backend systems, platform infrastructure, and automation pipelines. I use AI coding tools — Claude Code, GitHub Copilot, Gemini CLI — as a core part of how I design and ship software, not as a novelty.
+Senior software engineer with experience building backend systems, platform infrastructure, and automation pipelines. I use AI coding tools — Claude Code, GitHub Copilot, Gemini CLI — as a core part of how I design and ship software, not as a novelty.
 
 I own the full delivery cycle: system architecture → backend development → CI/CD automation → containerization → production observability.
 
