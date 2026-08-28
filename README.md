@@ -26,6 +26,12 @@ A full-stack personal investment tracker engineered to eliminate emotional decis
 
 `Python` `Node.js` `FastAPI` `SQLAlchemy` `Vue 3` `Pinia` `Vite` `SQLite` `Alpha Vantage API` `Anthropic API` `Playwright` `pytest-asyncio` `GitHub Actions`
 
+### [stock-select](https://github.com/mhightower/stock-select)
+
+A Spring Boot service that screens stock quotes and option chains for options-selling trade candidates. Starts with configurable Jade Lizard, Bull Put Spread, and Bear Call Spread workflows, combining EODHD quotes with MarketData.app option chain data behind a focused REST API.
+
+`Java` `Spring Boot` `Maven` `REST API` `EODHD API` `MarketData.app` `Docker` `GitHub Actions`
+
 ### [EncryptionClientLib](https://github.com/mhightower/EncryptionClientLib)
 
 A PHP encryption client library built for enterprise key management integration. Implements a high-availability key manager client (primary/secondary failover via TLS) against an external Alliance Key Manager, keeping cryptographic keys fully out of application code and off-disk. Enforces key instance tracking alongside ciphertext to support proper key rotation without data loss. OpenSSL-backed encryption/decryption layer with a clean interface that decouples key lifecycle from business logic — the same pattern used in regulated environments handling PII and payment data.
